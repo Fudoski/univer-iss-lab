@@ -1,0 +1,18 @@
+a25fc0f HEAD@{0}: checkout: moving from 17c481d68798e028a163a2ee945f525febb2932d to master
+17c481d HEAD@{1}: rebase (squash): Rebase on master
+47606f1 HEAD@{2}: rebase (start): checkout HEAD~2
+a25fc0f HEAD@{3}: rebase (finish): returning to refs/heads/develop
+a25fc0f HEAD@{4}: rebase (start): checkout HEAD
+a25fc0f HEAD@{5}: rebase (finish): returning to refs/heads/develop
+a25fc0f HEAD@{6}: rebase (start): checkout origin/master
+a25fc0f HEAD@{7}: merge feature2: Merge made by the 'ort' strategy.
+47606f1 HEAD@{8}: merge feature1: Fast-forward
+c1d3f31 HEAD@{9}: checkout: moving from feature1 to develop
+47606f1 HEAD@{10}: checkout: moving from feature2 to feature1
+2a15323 HEAD@{11}: commit: Added file d.txt
+c1d3f31 HEAD@{12}: checkout: moving from develop to feature2
+c1d3f31 HEAD@{13}: checkout: moving from feature1 to develop
+47606f1 HEAD@{14}: commit (amend): Amend commit for b.txt
+15484a2 HEAD@{15}: commit: Created file b.txt
+c1d3f31 HEAD@{16}: checkout: moving from develop to feature1
+c1d3f31 HEAD@{17}: commit (initial): Created a.txt file.
